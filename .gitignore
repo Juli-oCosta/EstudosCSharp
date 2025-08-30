@@ -1,0 +1,16 @@
+# Arquivo gerado pelo Visual Studio com configurações do usuário
+.vs/
+
+# Arquivos gerados pela compilação (Build)
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de configurações do usuário e temporários
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Outros
+*.DS_Store
+*.swp
